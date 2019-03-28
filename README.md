@@ -8,6 +8,7 @@
 - Telegram-Bot - <https://core.telegram.org/bots> | <https://github.com/python-telegram-bot/python-telegram-bot>
 - requests - <http://docs.python-requests.org/en/master/>
 - BeautifulSoup - <https://www.crummy.com/software/BeautifulSoup/bs4/doc/>
+- 
 
 Instale o Python e instale o PIP Install para realizar o download das bibliotecas:
 
@@ -19,8 +20,10 @@ Após o tutorial, no windows, abra o CMD e rode os comandos:
   pip install python-telegram-bot --upgrade<br>
   pip install beautifulsoup4<br>
   pip install requests<br>
+  pip install --upgrade setuptools<br>
+  pip install -U nltk<br>
 </div>
 
 Rodar BolsaBot.py
-Pesquise dentro do telegram o bot pelo nome e siga as instruções.
+Pesquise dentro do telegram o bot pelo nome "Bolsabot" e siga as instruções.
   
