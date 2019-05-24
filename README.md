@@ -8,7 +8,7 @@
 - Telegram-Bot - <https://core.telegram.org/bots> | <https://github.com/python-telegram-bot/python-telegram-bot>
 - requests - <http://docs.python-requests.org/en/master/>
 - BeautifulSoup - <https://www.crummy.com/software/BeautifulSoup/bs4/doc/>
-- 
+- Natural Language Tollkit - <https://www.nltk.org/>
 
 Instale o Python e instale o PIP Install para realizar o download das bibliotecas:
 
